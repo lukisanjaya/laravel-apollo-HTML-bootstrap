@@ -120,3 +120,16 @@ This project is based on the **Apollo HTML Bootstrap** template and uses the fol
 - [Remix Icon](https://remixicon.com/) – Open-source icon set
 - [jQuery](https://jquery.com/) – JavaScript library for DOM manipulation
 - [unDraw](https://undraw.co/) – Open-source illustrations for your projects
+
+## Screenshots
+
+Here’s a preview of the generated pages:
+
+![Screenshot 1](public/assets/images/screenshot/1.PNG)  
+*Example of a dashboard page layout*
+
+![Screenshot 2](public/assets/images/screenshot/2.PNG)  
+*Example of a users page*
+
+![Screenshot 2](public/assets/images/screenshot/3.PNG)  
+*Example of a users page filter*
