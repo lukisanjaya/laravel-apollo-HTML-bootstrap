@@ -109,7 +109,7 @@ This script works with Laravel's default folder structure:
 ## Credits
 
 This project is based on the **Apollo HTML Bootstrap** template and uses the following open-source resources:
-
+- [Apollo HTML Bootstrap](https://github.com/PixelRocket-Shop/apollo-html-bootstrap)
 - [Bootstrap](https://getbootstrap.com/)
 - [Chart.js](https://www.chartjs.org/)
 - [Unsplash](https://unsplash.com/)
